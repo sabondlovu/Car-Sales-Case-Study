@@ -23,7 +23,7 @@ As a Junior Data Analyst, I extracted actionable insights from historical car sa
  3. Tech StackPlanning:
    - Miro (Architecture & Data Flow).
    - Data Processing: Databricks (SQL).
-   - Visualization: Google Looker Studio.
+   - Visualization: Google Looker Studio and Lovable 
    - Presentation: Microsoft PowerPoint.
 
 4. Data Architecture & ETL Pipeline
@@ -42,6 +42,7 @@ Presentation Layer: Interactive dashboards created in Google Looker Studio.
 5. Key Calculations Used
 
 Total Revenue: Selling Price * Units Sold.
+Calculated the profit margins 
 
 6. Key Insights
 Top Revenue Generators: Analysis of high-performing makes and models.
@@ -55,6 +56,7 @@ Regional Trends: Identification of cities or provinces with the highest sales vo
 - car_sales_queries.sql: SQL scripts used for data cleaning and transformation.
 
 - car_sales_processed.xlsx: The final cleaned dataset used for visualization.
+
 
 
 - BrightMotors_Presentation.pdf: Final report for the Head of Sales.
