@@ -10,7 +10,7 @@ As a Junior Data Analyst, I extracted actionable insights from historical car sa
 2. Objectives
 - The primary goals of this analysis were to identify:
 
-- Which car makes and models generate the most revenue.
+- Which car makes and models generate the most revenue?
 
 - The relationship between vehicle price, mileage, and year of manufacture.
 
@@ -20,7 +20,7 @@ As a Junior Data Analyst, I extracted actionable insights from historical car sa
 
 - Recommendations for increasing dealership profitability.
 
- 3. Tech StackPlanning:
+ 3. Tech Stack Planning:
    - Miro (Architecture & Data Flow).
    - Data Processing: Databricks (SQL).
    - Visualization: Google Looker Studio and Lovable 
@@ -56,6 +56,13 @@ Regional Trends: Identification of cities or provinces with the highest sales vo
 - car_sales_queries.sql: SQL scripts used for data cleaning and transformation.
 
 - car_sales_processed.xlsx: The final cleaned dataset used for visualization.
+
+## 8. Strategic Recommendations
+Based on the data analysis, the following actions are recommended for the Head of Sales:
+1. Inventory Optimization - stock acquisition for car makes and models, maximize on the high margin performance cars, to maximize profitability
+2. Pricing Strategy - implement dynamic pricing for older vehicle models with high mileage to maintain a competitive average selling price and increase turnover.
+3. Profitability Monitoring: Conduct quarterly reviews of the column across all regions 
+
 
 
 
