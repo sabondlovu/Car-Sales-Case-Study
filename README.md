@@ -3,7 +3,7 @@ Analysis for a Car Sales Case Study
 
 Data Stuido: https://datastudio.google.com/s/jFaSXdac25A
 
-Loavble: https://drive-data-glow.lovable.app/car-analysis
+Loavble: https://siphiwosabo-carsales-dasboard.lovable.app/
 
 1. Project Overview
 This project was developed for Bright Motors to assist a newly appointed Head of Sales in expanding the dealership network and optimizing inventory.
